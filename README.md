@@ -12,10 +12,7 @@
 - ⚡ Fun fact: Getting stabbed is very demotivating.
 - 📚 Words that sum me up: Music, Movies, Memes, Minimalism, Melancholy
 
--->
-
-
-
+```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -35,9 +32,8 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
-
-
+```
 
 ![](https://i.gifer.com/Tuuf.gif)
 
- some awesome ideas to go here, check back again in some time to see what's cookin'.
+some awesome ideas to go here, check back again in some time to see what's cookin'.

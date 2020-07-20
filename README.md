@@ -34,6 +34,6 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](https://i.gifer.com/Tuuf.gif)
 
 some awesome ideas to go here, check back again in some time to see what's cookin'.

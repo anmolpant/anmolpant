@@ -34,6 +34,6 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-![](https://github.com/anmolpant/anmolpant/blob/master/gifs/Tuuf.gif)
+<img src="https://github.com/anmolpant/anmolpant/blob/master/gifs/Tuuf.gif" width="80" height="80" />
 
 some awesome ideas to go here, check back again in some time to see what's cookin'.

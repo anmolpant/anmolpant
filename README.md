@@ -15,6 +15,8 @@
 - 📚 5 Words that sum me up: Music, Movies, Memes, Minimalism, Melancholy.
 
 
+**Languages and Tools:** 
+
 <p>
   <a href="https://github.com/anmolpant/SaniText">
     <img width="55%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anmolpant&show_icons=true&hide_border=true" />

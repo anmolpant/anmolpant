@@ -19,7 +19,7 @@
 
 <p>
   <a href="https://github.com/anmolpant/SaniText">
-    <img width="55%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anmolpant&show_icons=true&hide_border=true" />
+    <img width="65%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anmolpant&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 

@@ -19,12 +19,10 @@
 
 <p>
   <a href="https://github.com/anmolpant/SaniText">
-    <img width="65%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anmolpant&show_icons=true&hide_border=true" />
+    <img width="60%" align="right" alt="Anmol's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anmolpant&show_icons=true&hide_border=true" />
   </a>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>

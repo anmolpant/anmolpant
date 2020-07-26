@@ -51,10 +51,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 <p align="center">
   <a href="http://hits.dwyl.com/anmolpant/anmolpant" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/anmolpant/anmolpant" />
-    <!--http://hits.dwyl.com/anmolpant/anmolpant-->
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/anmolpant/anmolpant.svg" />
   </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=anmolpant.anmolpant" />
+    <img align="center" alt="visitors" src="(https://profile-counter.glitch.me/{anmolpant}/count.svg)" />
 </p>
 
 ```

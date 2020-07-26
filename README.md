@@ -39,9 +39,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+  
 </p>
 
 <!-- Your hits or visitors
@@ -50,7 +51,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 <p align="center">
   <a href="http://hits.dwyl.com/anmolpant/anmolpant" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/anmolpant/anmolpant.svg" />
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/anmolpant/anmolpant" />
+    <!--http://hits.dwyl.com/anmolpant/anmolpant-->
   </a>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=anmolpant.anmolpant" />
 </p>

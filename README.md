@@ -50,12 +50,6 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <div align="center">
-[![HitCount](http://hits.dwyl.com/anmolpant/anmolpant.svg)](http://hits.dwyl.com/anmolpant/anmolpant)
-</div>
-<div align="center">
-![VisitorCount]https://profile-counter.glitch.me/%7Banmolpant%7D/count.svg
-</div>
-<div align="center">
 ![VisitorCount](https://profile-counter.glitch.me/{anmolpant}/count.svg)
 </div>
 
@@ -101,7 +95,7 @@ Please consider leaving a ⭐ for my recent Deep Learning projects.
  ## Need help?
 <i>Follow me around the web:</i><br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/anmol.pant.3) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Anmol-Pant-3) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/anmolpant/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/theanmolpant) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@anmolpant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pantanmol/) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/nastikbrahmin)
+[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/anmol.pant.3) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Anmol-Pant-3) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/anmolpant/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/theanmolpant) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@anmolpant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pantanmol/) [![Twitter Follow](https://img.shields.io/twitter/follow/nastikbrahmin?style=social)](https://twitter.com/nastikbrahmin)
 
 
 </p>

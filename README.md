@@ -49,12 +49,8 @@
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
-  <a href="http://hits.dwyl.com/anmolpant/anmolpant" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/anmolpant/anmolpant.svg" />
-  </a>
-    <img align="center" alt="visitors" src="(![VisitorCount](https://profile-counter.glitch.me/anmolpant/count.svg))" />
-</p>
+
+[![HitCount](http://hits.dwyl.com/anmolpant/anmolpant.svg)](http://hits.dwyl.com/anmolpant/anmolpant)
 
 ```
                              \\\\\\\
@@ -91,3 +87,20 @@ Please consider leaving a ⭐ for my recent Deep Learning projects.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=ULMFiT-Sentiment" />
   </a>
 </p>
+
+---
+
+<i>Follow me around the web:</i><br>
+
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
+  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> 
+
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> -->

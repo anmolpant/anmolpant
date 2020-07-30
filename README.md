@@ -53,7 +53,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <a href="http://hits.dwyl.com/anmolpant/anmolpant" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/anmolpant/anmolpant.svg" />
   </a>
-    <img align="center" alt="visitors" src="(https://profile-counter.glitch.me/{anmolpant}/count.svg)" />
+    <img align="center" alt="visitors" src="(![VisitorCount](https://profile-counter.glitch.me/anmolpant/count.svg))" />
 </p>
 
 ```
@@ -77,9 +77,5 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-
-<div align="center">
-<img src="https://i.pinimg.com/originals/a4/f2/cb/a4f2cb80ff2ae2772e80bf30e9d78d4c.gif" width="300" height="300" />
-</div>
 
 Loading....some awesome ideas to go here, check back again in some time to see what's cookin'.

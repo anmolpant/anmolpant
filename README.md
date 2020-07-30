@@ -79,3 +79,15 @@ _____________|','   ///_/-------------/   |
 ```
 
 Loading....some awesome ideas to go here, check back again in some time to see what's cookin'.
+
+
+Please consider leaving a ⭐ for my recent Deep Learning projects.
+
+<p align="center">
+  <a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray-Using-Deep-Learning">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=Detecting-COVID-19-from-X-Ray-Using-Deep-Learning" />
+  </a>
+  <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=ULMFiT-Sentiment" />
+  </a>
+</p>

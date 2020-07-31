@@ -45,13 +45,11 @@
   
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
+<p align="center">
 
 ![VisitorCount](https://profile-counter.glitch.me/{anmolpant}/count.svg)
 
+</p>
 
 
 ```
@@ -92,10 +90,9 @@ Please consider leaving a ⭐ for my recent Deep Learning projects.
 
 ---
 
- ## Need help?
+## Need help?
 <i>Follow me around the web:</i><br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/anmol.pant.3) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Anmol-Pant-3) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/anmolpant/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/theanmolpant) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@anmolpant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pantanmol/) [![Twitter Follow](https://img.shields.io/twitter/follow/nastikbrahmin?style=social)](https://twitter.com/nastikbrahmin)
-
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:anmol.pant2018@vitstudent.ac.in?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Anmol](https://img.shields.io/github/followers/anmolpant?label=follow&style=social)](https://github.com/anmolpant) [![Portfolio](https://img.shields.io/badge/-anmolpant-242424?style=flat-square&logo=circle&logoColor=White)](https://anmolpant.github.io/) [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/anmol.pant.3) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Anmol-Pant-3) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/anmolpant/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/theanmolpant) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@anmolpant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pantanmol/) [![Twitter Follow](https://img.shields.io/twitter/follow/nastikbrahmin?style=social)](https://twitter.com/nastikbrahmin) [![Stackoverflow ask](https://img.shields.io/badge/StackOverflow-ask-orange)](https://stackoverflow.com/users/13553697/anmol-pant)
 
 </p>

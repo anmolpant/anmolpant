@@ -1,7 +1,6 @@
 <h2>Hey, Hallo, नमस्ते 🙏🏻, I'm Anmol Pant! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
-
-<div align = 'left'>
 <br/>
+<div align = 'left'>
 <a href="https://twitter.com/nastikbrahmin">
   <img align="left" alt="anmolpant | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>

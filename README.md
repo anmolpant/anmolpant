@@ -1,5 +1,6 @@
 <h2>Hey, Hallo, नमस्ते 🙏🏻, I'm Anmol Pant! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 
+<div align = 'left'>
 <br/>
 <a href="https://twitter.com/nastikbrahmin">
   <img align="left" alt="anmolpant | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
@@ -19,9 +20,9 @@
 <a href="https://www.hackerrank.com/anmolpant">
   <img align="left" alt="anmolpant's Hackerrank" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a> <br /> <br />
+</div>
 
-<br>
-<p><em>Machine Learning Intern at <a href="http://www.ignitus.org/">Ignitus</a></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Machine Learning Intern at <a href="http://www.ignitus.org/">Ignitus</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 - 🔭 I’m currently working on getting my shit together.

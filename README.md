@@ -8,7 +8,7 @@
   <img align="left" alt="anmolpant's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://anmolpant.github.io/">
-  <img align="left" alt="anmolpant's Portfolio" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="anmolpant's Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
 </a>
 <a href="https://www.facebook.com/anmol.pant.3">
   <img align="left" alt="anmolpant's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />

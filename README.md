@@ -23,7 +23,7 @@
   <img align="left" alt="anmolpant's Hackerrank" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a> <br /> <br />
 
-<p><em>Machine Learning Intern at <a href="http://www.ignitus.org/">Ignitus</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Machine Learning Intern at <a href="https://www.linkedin.com/company/technocolabs">Technocolabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 - 🔭 I’m currently working on getting my shit together.

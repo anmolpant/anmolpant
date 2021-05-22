@@ -22,8 +22,8 @@
 <a href="https://leetcode.com/anmolpant/">
   <img align="left" alt="anmolpant's Leetcode" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a>
-<a href="https://open.spotify.com/user/anmolpant?si=ShWKrVCDTyWM2UBkMNH9Vw">
-  <img align="left" alt="Download Resume" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+<a href="https://github.com/anmolpant/anmolpant/blob/master/assets/Anmol's%20Resume.pdf">
+  <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />
 </a>
  <br /> <br />
 

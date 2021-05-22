@@ -21,7 +21,11 @@
 </a>
 <a href="https://leetcode.com/anmolpant/">
   <img align="left" alt="anmolpant's Leetcode" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
-</a> <br /> <br />
+</a>
+<a href="https://open.spotify.com/user/anmolpant?si=ShWKrVCDTyWM2UBkMNH9Vw">
+  <img align="left" alt="Download Resume" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
+ <br /> <br />
 
 <p><em>Machine Learning Intern at <a href="http://www.delcomindia.com/">Delcom Telesystems</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>

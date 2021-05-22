@@ -5,7 +5,7 @@
   <img align="left" alt="anmolpant | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pantanmol/">
-  <img align="left" alt="anmolpant's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="anmolpant's Linkdin" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://anmolpant.github.io/">
   <img align="left" alt="anmolpant's Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
@@ -19,11 +19,11 @@
 <a href="https://open.spotify.com/user/anmolpant?si=ShWKrVCDTyWM2UBkMNH9Vw">
   <img align="left" alt="anmolpant's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-<a href="https://www.hackerrank.com/anmolpant">
-  <img align="left" alt="anmolpant's Hackerrank" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
+<a href="https://leetcode.com/anmolpant/">
+  <img align="left" alt="anmolpant's Leetcode" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a> <br /> <br />
 
-<p><em>Machine Learning Intern at <a href="https://www.linkedin.com/company/technocolabs">Technocolabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Machine Learning Intern at <a href="http://www.delcomindia.com/">Delcom Telesystems</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 - 🔭 I’m currently working on getting my shit together.
@@ -34,7 +34,7 @@
 - 🤔 I’m looking for help with LSTMs and college assignments. 
 - 💬 Ask me about: anything but my life.
 - 📫 How to reach me: oohhh toodlesssss. I mean, use the links in the footer.
-- 😄 Pronouns: Professional Disappointment.
+- 😄 Pronouns: built/different
 - ⚡ Fun fact: Getting stabbed is very demotivating.
 - 📚 5 Words that best sum me up: Music, Movies, Memes, Minimalism, Melancholy.
 
@@ -56,14 +56,14 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
   

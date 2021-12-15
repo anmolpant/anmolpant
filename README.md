@@ -2,25 +2,25 @@
 <br/>
 <div align = 'left'>
 <a href="https://twitter.com/nastikbrahmin">
-  <img align="left" alt="anmolpant | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img align="left" alt="anmolpant | Twitter" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/pantanmol/">
-  <img align="left" alt="anmolpant's Linkdin" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="anmolpant's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
 </a>
 <a href="https://anmolpant.github.io/">
   <img align="left" alt="anmolpant's Portfolio" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/planet.svg" />
 </a>
 <a href="https://www.facebook.com/anmol.pant.3">
-  <img align="left" alt="anmolpant's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="anmolpant's Facebook" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/facebook.png" />
 </a>
 <a href="(https://www.instagram.com/anmolpant/">
-  <img align="left" alt="anmolpant's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="anmolpant's Instagram" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/instagram.png" />
 </a>
 <a href="https://open.spotify.com/user/anmolpant?si=ShWKrVCDTyWM2UBkMNH9Vw">
-  <img align="left" alt="anmolpant's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img align="left" alt="anmolpant's Spotify" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/spotify.png" />
 </a>
 <a href="https://leetcode.com/anmolpant/">
-  <img align="left" alt="anmolpant's Leetcode" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
+  <img align="left" alt="anmolpant's Leetcode" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/programming-code-signs.png" />
 </a>
 <a href="https://github.com/anmolpant/anmolpant/blob/master/assets/Anmol's%20Resume.pdf">
   <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />

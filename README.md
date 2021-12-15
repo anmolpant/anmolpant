@@ -27,15 +27,15 @@
 </a>
  <br /> <br />
 
-<p><em>Machine Learning Intern at <a href="http://www.delcomindia.com/">Delcom Telesystems</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Incoming Software Engineer at <a href="https://www.linkedin.com/company/societe_generale_global_solution_centre/?originalSubdomain=in">Société Générale</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Computer Science and Engineering Student at <a href="https://vit.ac.in/">Vellore Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 - 🔭 I’m currently working on getting my shit together.
 - 🔮 What do I do? - Predict the future via computer science black magic.
 - 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
       conveyances for transporting people or goods...basically, I'm learning how to drive. 
-- 👯 I’m looking to collaborate on Machine Learning and Web Development related projects.
-- 🤔 I’m looking for help with LSTMs and college assignments. 
+- 👯 I’m looking to collaborate on Machine Learning, Java and Web Development related projects.
+- 🤔 I’m looking for help with LSTMs and Cloud Computing. 
 - 💬 Ask me about: anything but my life.
 - 📫 How to reach me: oohhh toodlesssss. I mean, use the links in the footer.
 - 😄 Pronouns: built/different
@@ -86,7 +86,7 @@
 const anmol = {
     pronouns: "Bro" | "Bruh",
     code: ["Javascript", "HTML", "Python", "Java", "C++"],
-    askMeAbout: ["Web dev", "tech", "Machine learning", "TV Shows", "Content Writing", "Memes"],
+    askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
     technologies: {
         frontEnd: {
             js: ["Vanilla", "jQuery"],
@@ -94,12 +94,13 @@ const anmol = {
         },
         backEnd: {
             python: ["flask"]
+            java : ["JSP"]
         },
-        devOps: ["AWS"],
-        databases: ["Mongo", "MySql", "sqlite", "phpMyAdmin"],
-        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas"]
+        devOps: ["GCP"], ["Azure"]
+        databases: ["Mongo", "MySql", "sqlite", "phpMyAdmin", "Oracle"],
+        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas", "Octave"]
     },
-    currentProject: "Working on the keyword extraction from short text problem.",
+    currentProject: "Working on enhancing my current skillset whilst simultaneously looking for new opportunities.",
     funFact: "My jokes are a cry for help."
 };
 ```
